@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://firerycon.visualstudio.com/UUUAZ400/_apis/build/status/firerycon.calculator?branchName=master)](https://firerycon.visualstudio.com/UUUAZ400/_build/latest?definitionId=6&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
